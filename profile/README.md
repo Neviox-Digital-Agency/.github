@@ -66,9 +66,11 @@ Looking to build something ambitious? We offer onsite strategy workshops and tec
 
 ### 📝 Recent Blog Posts:
 <!-- BLOG-START -->
+- [Navigating Form Management: UI vs. Rule Engines](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/navigating-form-management-ui-vs-rule-engines)
 - [Orchestration vs. Choreography in Fintech](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/orchestration-vs-choreography-in-fintech)
 - [Optimizing RAG System Architecture for AI Support](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/optimizing-rag-system-architecture-for-ai-support)
 - [UI Forms vs. Rule Engines: A Strategic Decision for Modern Businesses](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/ui-forms-vs-rule-engines-a-strategic-decision-for-modern-businesses)
+
 
 
 <!-- BLOG-END -->
