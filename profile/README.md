@@ -66,6 +66,7 @@ Looking to build something ambitious? We offer onsite strategy workshops and tec
 
 ### 📝 Recent Blog Posts:
 <!-- BLOG-START -->
+- [Architecting an AI Workflow: Data Ingestion, LLM Economics, and Next.js](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/architecting-an-ai-workflow-data-ingestion-llm-economics-and-next-js)
 - [Case Study: AI-Driven University Recommendation Engine for PGadmit](https://www.nevioxdigital.com/en/digital-insights/case-studies/case-study-ai-university-recommendation-engine-pgadmit)
 - [Case Study: High-Performance Medical Platform for Polyclinic dr. Meter](https://www.nevioxdigital.com/en/digital-insights/case-studies/case-study-medical-platform-polyclinic-dr-meter)
 - [Stop Defaulting to Next.js: A Senior Engineer's Guide to the React Ecosystem](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/react-vs-nextjs-architecture-guide)
@@ -77,6 +78,7 @@ Looking to build something ambitious? We offer onsite strategy workshops and tec
 - [Orchestration vs. Choreography in Fintech](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/orchestration-vs-choreography-in-fintech)
 - [Optimizing RAG System Architecture for AI Support](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/optimizing-rag-system-architecture-for-ai-support)
 - [UI Forms vs. Rule Engines: A Strategic Decision for Modern Businesses](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/ui-forms-vs-rule-engines-a-strategic-decision-for-modern-businesses)
+
 
 
 
