@@ -66,6 +66,7 @@ Looking to build something ambitious? We offer onsite strategy workshops and tec
 
 ### 📝 Recent Blog Posts:
 <!-- BLOG-START -->
+- [Case Study: Rentijer — A Complete PMS for Croatian Short-Term Rental Hosts](https://www.nevioxdigital.com/en/digital-insights/case-studies/case-study-rentijer-pms-for-croatian-short-term-rental-hosts)
 - [Deterministic Verification: Why Your AI Pipeline Needs a Kill Switch](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/engineering-deterministic-ai-verification-pipelines)
 - [Next.js Caching 2026: Architecture Beyond the 'force-dynamic' Folklore](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/nextjs-app-router-caching-guide)
 - [Architecting AI Features in Next.js 16.3: Server Components and Streaming](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/nextjs-16-3-ai-architecture)
@@ -84,6 +85,7 @@ Looking to build something ambitious? We offer onsite strategy workshops and tec
 - [Orchestration vs. Choreography in Fintech](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/orchestration-vs-choreography-in-fintech)
 - [Optimizing RAG System Architecture for AI Support](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/optimizing-rag-system-architecture-for-ai-support)
 - [UI Forms vs. Rule Engines: A Strategic Decision for Modern Businesses](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/ui-forms-vs-rule-engines-a-strategic-decision-for-modern-businesses)
+
 
 
 
