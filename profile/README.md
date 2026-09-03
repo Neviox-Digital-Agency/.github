@@ -66,6 +66,7 @@ Looking to build something ambitious? We offer onsite strategy workshops and tec
 
 ### 📝 Recent Blog Posts:
 <!-- BLOG-START -->
+- [What a GDPR-Compliant CMS for Medical Practices Actually Needs](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/gdpr-cms-for-medical-practices)
 - [Case Study: Yachting One — A 13-Page Yacht Brokerage Site, Built to Spec](https://www.nevioxdigital.com/en/digital-insights/case-studies/case-study-yachting-one-figma-to-production)
 - [Case Study: Visilo Apartments — A Direct-Booking Site Powered by Rentijer](https://www.nevioxdigital.com/en/digital-insights/case-studies/case-study-visilo-apartments-direct-booking)
 - [CSS-Only Interactivity in Next.js: Selector Patterns That Remove Unneeded JavaScript](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/css-interactivity-nextjs)
@@ -89,6 +90,7 @@ Looking to build something ambitious? We offer onsite strategy workshops and tec
 - [Orchestration vs. Choreography in Fintech](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/orchestration-vs-choreography-in-fintech)
 - [Optimizing RAG System Architecture for AI Support](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/optimizing-rag-system-architecture-for-ai-support)
 - [UI Forms vs. Rule Engines: A Strategic Decision for Modern Businesses](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/ui-forms-vs-rule-engines-a-strategic-decision-for-modern-businesses)
+
 
 
 
