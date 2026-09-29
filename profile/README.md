@@ -2,65 +2,57 @@
 <img src="https://nevioxdigital.com/opengraph-image.png" style="width: 100%; height: auto; border-radius: 10px;" alt="Neviox Digital Banner" />
 </p>
 
-<h2 align="center">Fusion of Software & Design</h2>
+<h2 align="center">Websites, software and AI built to pay off</h2>
 
 <p align="center">
-  <strong>Neviox Digital</strong> is an award-winning digital agency from Croatia delivering high-performance software and AI solutions. We engineer robust digital infrastructure, deploy intelligent AI workforces, and build lightning-fast web experiences that drive real business results.
+  <strong>Neviox Digital</strong> is a software studio in Split, Croatia. We build websites, business software and AI assistants that cut manual work and bring in more customers, for companies in Croatia and across Europe.
 </p>
 
 <p align="center">
-  <a href="https://nevioxdigital.com/en" target="_blank"><strong>Official Website</strong></a> | 
+  <a href="https://nevioxdigital.com/en" target="_blank"><strong>Website</strong></a> | 
   <a href="https://nevioxdigital.com/en/portfolio-case-studies" target="_blank"><strong>Case Studies</strong></a> | 
-  <a href="https://nevioxdigital.com/en/contact-us" target="_blank"><strong>Get a Quote</strong></a>
+  <a href="https://nevioxdigital.com/en/contact-us" target="_blank"><strong>Contact Us</strong></a>
 </p>
 
 ---
 
-## 🚀 Core Expertise
+## What We Build
 
-Aligning technical precision with creative vision, we focus on three strategic pillars:
+- **Next.js web development** — fast websites and web apps on Next.js, React and TypeScript, with full code ownership
+- **AI integration** — RAG search, support assistants and document processing wired into existing tools
+- **Custom software / ERP** — business systems built around real processes, with FINA e-invoicing for Croatian companies
+- **E-commerce** — headless stores on Medusa.js with ERP and payment integrations
+- **Business process automation** — n8n workflows on our own infrastructure that take repetitive work off client teams
+- **UI/UX design** — interfaces designed and built as one system, from Figma to production
+- **White-label development** — capacity for agencies, delivered under their brand with a strict NDA
 
-### 1. Custom Software & SaaS Development
-We engineer scalable SaaS platforms and complex web applications designed for high-traffic environments. Using **Next.js 16** and a type-safe backend, we transform complex business logic into seamless user experiences.
+## Who We Work With
 
-### 2. AI Agents & Workflow Automation
-We deploy autonomous AI agents and intelligent workflows engineered with **LangChain** and **OpenAI**. Our solutions help businesses eliminate manual overhead by automating technical operations and decision-making processes.
-
-### 3. Technical SEO & SSG Architecture
-We specialize in Static Site Generated (SSG) websites optimized for **Core Web Vitals**. Our custom architecture ensures #1 Google rankings through superior performance, multi-locale support, and localized city-targeting.
-
----
-
-## 🏗️ Industry Focus: Digital Transformation
-
-While we work across various sectors, we specialize in modernizing the **Real Estate & Maritime** industries through:
-- **Management Systems:** Custom ERP and CRM solutions for property and charter operators.
-- **AI Integration:** Automated listing generation, intelligent lead scoring, and customer support agents.
-- **Business Automation:** Modernizing legacy infrastructure to cloud-native, performance-first platforms.
+Digital and creative agencies that need white-label development capacity, consulting firms building their first real product, tourism and hospitality businesses, and startups shipping fast after funding — mainly in Croatia, Germany, Austria, Switzerland, the Netherlands and the UK.
 
 ---
 
-## 🛠️ Tech Stack
-
-Built for speed, scale, and maintainability:
+## Stack
 
 | Category | Tools |
 | :--- | :--- |
-| **Frontend** | `Next.js`, `TypeScript`, `Tailwind CSS`, `Framer Motion` |
-| **Backend** | `Node.js`, `Drizzle ORM`, `PostgreSQL`, `Java` |
-| **Infrastructure** | `Vercel`, `AWS`, `Cloudflare` |
-| **Headless CMS** | `Sanity.io` |
-| **AI & Automation** | `LangChain`, `OpenAI API`, `Replicate`, `n8n` |
-| **Communication** | `Resend`, `Auth.js` |
+| **Frontend** | `Next.js`, `React`, `TypeScript`, `Tailwind CSS` |
+| **Backend / Data** | `Supabase`, `Postgres` |
+| **CMS** | `Sanity.io` |
+| **AI** | `Vercel AI SDK`, `LangChain.js` |
+| **Automation** | `n8n` |
+| **Infrastructure** | `Vercel` |
+| **Runtime** | `Bun` |
 
 ---
 
-## 🤝 Work With Us
+## Work With Us
 
-Looking to build something ambitious? We offer onsite strategy workshops and technical consultations to help you dominate your local market.
+Send us a project description and we'll reply in writing with next steps.
 
-📬 **Inquiries:** [info@nevioxdigital.com](mailto:info@nevioxdigital.com)  
-🌐 **Localized Support:** [London](https://nevioxdigital.com/en/web-design-agency/london) • [Berlin](https://nevioxdigital.com/de/webdesign-agentur/berlin) • [Zagreb](https://nevioxdigital.com/hr/izrada-web-stranica/zagreb) • [New York](https://nevioxdigital.com/en/web-design-agency/new-york) • [Amsterdam](https://nevioxdigital.com/en/web-design-agency/amsterdam)
+📬 [info@nevioxdigital.com](mailto:info@nevioxdigital.com)
+
+🌐 Also building for: [London](https://nevioxdigital.com/en/web-design-agency/london) • [Berlin](https://nevioxdigital.com/de/webdesign-agentur/berlin) • [Zagreb](https://nevioxdigital.com/hr/izrada-web-stranica/zagreb) • [New York](https://nevioxdigital.com/en/web-design-agency/new-york) • [Amsterdam](https://nevioxdigital.com/en/web-design-agency/amsterdam)
 
 ---
 
@@ -120,6 +112,5 @@ Looking to build something ambitious? We offer onsite strategy workshops and tec
 <!-- BLOG-END -->
 
 <p align="center">
-  Built with ❤️ by <strong>Neviox Digital</strong><br/>
-  <em>Fusion of Software & Design.</em>
+  Neviox Digital — Split, Croatia
 </p>
