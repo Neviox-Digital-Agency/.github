@@ -58,6 +58,7 @@ Send us a project description and we'll reply in writing with next steps.
 
 ### 📝 Recent Blog Posts:
 <!-- BLOG-START -->
+- [How to Verify an AI Workflow Read the Invoice Correctly](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/verify-ai-workflow-read-invoice-correctly)
 - [What Is Technical SEO? How Search Engine Optimization Actually Works](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/what-is-technical-seo)
 - [What Is an ERP System? ERP vs CRM Explained](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/what-is-erp-and-crm)
 - [What a GDPR-Compliant CMS for Medical Practices Actually Needs](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/gdpr-cms-for-medical-practices)
@@ -84,6 +85,7 @@ Send us a project description and we'll reply in writing with next steps.
 - [Orchestration vs. Choreography in Fintech](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/orchestration-vs-choreography-in-fintech)
 - [Optimizing RAG System Architecture for AI Support](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/optimizing-rag-system-architecture-for-ai-support)
 - [UI Forms vs. Rule Engines: A Strategic Decision for Modern Businesses](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/ui-forms-vs-rule-engines-a-strategic-decision-for-modern-businesses)
+
 
 
 
