@@ -58,6 +58,7 @@ Send us a project description and we'll reply in writing with next steps.
 
 ### 📝 Recent Blog Posts:
 <!-- BLOG-START -->
+- [Fiskalizacija 2.0: How to Connect an Existing ERP or Web Shop to Croatian e-Invoicing](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/fiskalizacija-2-0-connect-erp-croatian-e-invoicing)
 - [The UX Audit Framework We Use Before Redesigning a B2B Website](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/ux-audit-framework-b2b-website)
 - [How to Verify an AI Workflow Read the Invoice Correctly](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/verify-ai-workflow-read-invoice-correctly)
 - [What Is Technical SEO? How Search Engine Optimization Actually Works](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/what-is-technical-seo)
@@ -86,6 +87,7 @@ Send us a project description and we'll reply in writing with next steps.
 - [Orchestration vs. Choreography in Fintech](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/orchestration-vs-choreography-in-fintech)
 - [Optimizing RAG System Architecture for AI Support](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/optimizing-rag-system-architecture-for-ai-support)
 - [UI Forms vs. Rule Engines: A Strategic Decision for Modern Businesses](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/ui-forms-vs-rule-engines-a-strategic-decision-for-modern-businesses)
+
 
 
 
