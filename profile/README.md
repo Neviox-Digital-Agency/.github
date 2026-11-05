@@ -56,6 +56,15 @@ Send us a project description and we'll reply in writing with next steps.
 
 ---
 
+### Open source and products
+
+- **[Rentijer](https://rentijer.com)**: property management for Croatian holiday-rental hosts (calendar sync, eVisitor, taxes, invoices). [Pricing](https://rentijer.com/cijene) · [Blog](https://rentijer.com/blog)
+- **[stripe-parra](https://github.com/Neviox-Digital-Agency/stripe-parra)**: fiscalized Croatian invoices for Stripe subscription payments, issued through Parra (typed client, outbox worker).
+- **[hub3-barcode](https://github.com/tinmartinic/hub3-barcode)**: validated HUB3 payment barcode ("slikaj i plati") for Croatian banks.
+- **[evisitor-client](https://github.com/tinmartinic/evisitor-client)**: typed Node.js client for the Croatian eVisitor tourist registration API.
+
+---
+
 ### 📝 Recent Blog Posts:
 <!-- BLOG-START -->
 - [Which Business Process to Automate First: A 6-Question Scorecard](https://www.nevioxdigital.com/en/digital-insights/ai-and-tech-news/which-business-process-to-automate-first)
