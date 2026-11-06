@@ -2,33 +2,41 @@
 <img src="https://nevioxdigital.com/opengraph-image.png" style="width: 100%; height: auto; border-radius: 10px;" alt="Neviox Digital Banner" />
 </p>
 
-<h2 align="center">Websites, software and AI built to pay off</h2>
+<h2 align="center">AI process automation that runs reliably in production</h2>
 
 <p align="center">
-  <strong>Neviox Digital</strong> is a software studio in Split, Croatia. We build websites, business software and AI assistants that cut manual work and bring in more customers, for companies in Croatia and across Europe.
+  <strong>Neviox Digital</strong> is a software studio in Split, Croatia. We build production AI automations that connect your ERP, CRM and documents, reliably and GDPR-compliant, for companies in DACH and Croatia. Websites and custom software are how we got here, and we still build them.
 </p>
 
 <p align="center">
-  <a href="https://nevioxdigital.com/en" target="_blank"><strong>Website</strong></a> | 
-  <a href="https://nevioxdigital.com/en/portfolio-case-studies" target="_blank"><strong>Case Studies</strong></a> | 
-  <a href="https://nevioxdigital.com/en/contact-us" target="_blank"><strong>Contact Us</strong></a>
+  <a href="https://nevioxdigital.com/en" target="_blank"><strong>Website</strong></a> |
+  <a href="https://nevioxdigital.com/en/portfolio-case-studies" target="_blank"><strong>Case Studies</strong></a> |
+  <a href="https://nevioxdigital.com/en/code-audit" target="_blank"><strong>Request an audit</strong></a>
 </p>
 
 ---
 
 ## What We Build
 
-- **Next.js web development** — fast websites and web apps on Next.js, React and TypeScript, with full code ownership
-- **AI integration** — RAG search, support assistants and document processing wired into existing tools
-- **Custom software / ERP** — business systems built around real processes, with FINA e-invoicing for Croatian companies
-- **E-commerce** — headless stores on Medusa.js with ERP and payment integrations
-- **Business process automation** — n8n workflows on our own infrastructure that take repetitive work off client teams
-- **UI/UX design** — interfaces designed and built as one system, from Figma to production
-- **White-label development** — capacity for agencies, delivered under their brand with a strict NDA
+- **AI workflow automation (n8n)**: quotes, invoices, orders, reports and leads moving between the tools a company already runs, with AI steps where judgment is needed. Fixed-price build, then a monthly run and improve retainer with monitoring, fixes and cost control.
+- **AI assistants on company data**: RAG search that answers from your own documents with citations, email and ticket triage, and document extraction into ERP or CRM.
+- **Next.js web development**: fast websites and web apps on Next.js, React and TypeScript, with full code ownership.
+- **Custom software and ERP**: business systems built around real processes, including fiscalized invoicing for Croatian companies.
+- **E-commerce**: Shopify and headless stores with ERP and payment integrations.
+- **UI/UX design**: interfaces designed and built as one system, from Figma to production.
+- **White-label development**: capacity for agencies, delivered under their brand with a strict NDA.
+
+## How We Work
+
+- Reliability over demos: AI workflows are tested against real cases before launch, monitored after, with guardrails and cost limits per workflow.
+- Fixed price per phase, with written sign-off before the next phase starts.
+- The engineers who answer your inquiry write the code. Every engineer has 5+ years of experience.
+- Full code ownership. A data processing agreement is available on request.
+- Delivery in English, German and Croatian.
 
 ## Who We Work With
 
-Digital and creative agencies that need white-label development capacity, consulting firms building their first real product, tourism and hospitality businesses, and startups shipping fast after funding — mainly in Croatia, Germany, Austria, Switzerland, the Netherlands and the UK.
+Companies of 10 to 250 staff in DACH and Croatia that want repetitive process work off their teams, plus digital and creative agencies that need white-label capacity, consulting firms building their first real product, tourism and hospitality businesses, and startups shipping fast after funding.
 
 ---
 
@@ -37,31 +45,38 @@ Digital and creative agencies that need white-label development capacity, consul
 | Category | Tools |
 | :--- | :--- |
 | **Frontend** | `Next.js`, `React`, `TypeScript`, `Tailwind CSS` |
-| **Backend / Data** | `Supabase`, `Postgres` |
-| **CMS** | `Sanity.io` |
+| **Backend / Data** | `Supabase`, `Postgres`, `Pinecone` |
+| **CMS / Commerce** | `Sanity.io`, `Medusa.js`, `Shopify` |
 | **AI** | `Vercel AI SDK`, `LangChain.js` |
-| **Automation** | `n8n` |
-| **Infrastructure** | `Vercel` |
-| **Runtime** | `Bun` |
+| **Automation** | `n8n` (self-hosted) |
+| **Infrastructure** | `Vercel`, `Bun` |
 
 ---
 
-## Work With Us
+## Open Source and Products
 
-Send us a project description and we'll reply in writing with next steps.
-
-📬 [info@nevioxdigital.com](mailto:info@nevioxdigital.com)
-
-🌐 Also building for: [London](https://nevioxdigital.com/en/web-design-agency/london) • [Berlin](https://nevioxdigital.com/de/webdesign-agentur/berlin) • [Zagreb](https://nevioxdigital.com/hr/izrada-web-stranica/zagreb) • [New York](https://nevioxdigital.com/en/web-design-agency/new-york) • [Amsterdam](https://nevioxdigital.com/en/web-design-agency/amsterdam)
-
----
-
-### Open source and products
-
-- **[Rentijer](https://rentijer.com)**: property management for Croatian holiday-rental hosts (calendar sync, eVisitor, taxes, invoices). [Pricing](https://rentijer.com/cijene) · [Blog](https://rentijer.com/blog)
+- **[Rentijer](https://rentijer.com)**: our own property management system for Croatian holiday-rental hosts (calendar sync, eVisitor, taxes, invoices). [Pricing](https://rentijer.com/cijene) · [Blog](https://rentijer.com/blog)
 - **[stripe-parra](https://github.com/Neviox-Digital-Agency/stripe-parra)**: fiscalized Croatian invoices for Stripe subscription payments, issued through Parra (typed client, outbox worker).
 - **[hub3-barcode](https://github.com/tinmartinic/hub3-barcode)**: validated HUB3 payment barcode ("slikaj i plati") for Croatian banks.
 - **[evisitor-client](https://github.com/tinmartinic/evisitor-client)**: typed Node.js client for the Croatian eVisitor tourist registration API.
+
+## Selected Work
+
+- [PGAdmit](https://www.nevioxdigital.com/en/digital-insights/case-studies/case-study-ai-university-recommendation-engine-pgadmit): AI university recommendation engine for a US EdTech company.
+- [Rentijer](https://www.nevioxdigital.com/en/digital-insights/case-studies/case-study-rentijer-pms-for-croatian-short-term-rental-hosts): a complete PMS for Croatian short-term rental hosts.
+- [Polyclinic dr. Meter](https://www.nevioxdigital.com/en/digital-insights/case-studies/case-study-medical-platform-polyclinic-dr-meter): high-performance medical platform.
+- [Yachting One](https://www.nevioxdigital.com/en/digital-insights/case-studies/case-study-yachting-one-figma-to-production): 13-page yacht brokerage site, built to spec.
+- [Visilo Apartments](https://www.nevioxdigital.com/en/digital-insights/case-studies/case-study-visilo-apartments-direct-booking): direct-booking site powered by Rentijer.
+
+## Neviox Marketing
+
+Our marketing sub-brand for Croatian businesses: digital strategy, social media, paid ads, SEO content, analytics and email. [nevioxmarketing.com](https://nevioxmarketing.com)
+
+---
+
+## Contact
+
+Describe your project through the [audit request](https://nevioxdigital.com/en/code-audit) or by email at [info@nevioxdigital.com](mailto:info@nevioxdigital.com). The engineer who will build it replies in writing.
 
 ---
 
@@ -129,5 +144,5 @@ Send us a project description and we'll reply in writing with next steps.
 <!-- BLOG-END -->
 
 <p align="center">
-  Neviox Digital — Split, Croatia
+  Neviox Digital · Split, Croatia · <a href="https://nevioxdigital.com">nevioxdigital.com</a>
 </p>
